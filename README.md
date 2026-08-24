@@ -4,7 +4,7 @@ A Python-based exploratory data analysis project focused on cleaning and analyzi
 ## Dataset
 The dataset contains approximately 52,000 Superstore sales records covering 2011–2014, including order details, customer information, product purchases and shipping information.
 
-Source: [Kaggle]()
+Original Data Source: [Kaggle](https://www.kaggle.com/datasets/thuandao/superstore-sales-analytics)
 
 The original dataset was structured for analysis. For this project, realistic data-quality issues were introduced to simulate a raw operational dataset and provide an opportunity to apply data-cleaning techniques.
 
